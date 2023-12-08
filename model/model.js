@@ -1,3 +1,4 @@
+// schema use create data mogodb collection 
 const mongoose = require('mongoose');
 
 const dataSchema = new mongoose.Schema({
